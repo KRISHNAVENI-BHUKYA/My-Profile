@@ -1,4 +1,4 @@
-# 👨‍💻 Well come to my profile
+# 👨‍💻 Welcome to my profile
 Welcome to my GitHub profile! 👋 
 
 👋 Hi, I'm Krishnaveni
