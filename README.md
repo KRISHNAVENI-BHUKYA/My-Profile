@@ -43,7 +43,7 @@ Lightweight and responsive UI.
 
 
 ## 🖼 My Profile Image
-![Profile Image]("https://res.cloudinary.com/dt2kbh0lm/image/upload/v1734850969/MYPIC1_gwim5r.jpg")  
+![Profile Image](https://res.cloudinary.com/dt2kbh0lm/image/upload/v1734850969/MYPIC1_gwim5r.jpg)  
 
 
 ## 📊 GitHub Visitor Chart
