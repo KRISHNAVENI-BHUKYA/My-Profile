@@ -74,5 +74,3 @@ Thank you for visiting my profile! I am excited to continue learning and growing
 
 
 ✨ Thank you for visiting my profile! Let's build something amazing together.
-
-Replace the placeholders for your LinkedIn and GitHub links, and it’s good to go!
